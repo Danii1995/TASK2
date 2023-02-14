@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+.hockey {
+    width: 1800px;
+    position: relative;
+    width: 100%;
+    height: 25rem;
+    
+    filter: brightness(80%);
+}
+
+h1 {
+    margin-left: 35%;
+   position: absolute;
+    z-index: 1;
+}
+h2 {
+    position: relative;
+    color:aqua;
+     text-align: center;
+     margin-top: -3%;
+     
+}
+.Logo {
+    position: relative;
+    height: auto;
+width: 150px;
+margin-left: 80%;
+    margin-top: -7%;
+    background-color: white;
+    border: 3px solid black;
+    
+}
+body {
+        margin:10px;
+    }
+    h3, h4, h5 {
+        text-align: center;
+        margin-top: 20px;
+    }
+    p {
+        position: relative;
+        text-align: center;
+        margin-right: 40px;
+    }
+    .Contenido {
+        margin-left: -700px;
+        margin-top: -80px;
+    }
+    nav a {
+        display: flexbox;
+        margin: 10px;
+        
+         }
+         section article {
+            display: block;
+            color:black;
+        }
+        .Logo {
+            /*valores predeterminados  transform */
+        transition-duration: 6s;
+        transition-timing-function:cubic-bezier(0.075, 0.82, 0.165, 1)
+        }
+
+
+        
+
