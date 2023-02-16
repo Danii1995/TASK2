@@ -1,0 +1,14 @@
+.titulo {
+text-align: center;
+margin: 2rem auto;
+display: table;
+}
+.titulo {
+   text-align: center;
+    margin-left: 35%;
+   position: relative;
+   
+    }
+    p.inicioParrafo {
+    text-indent: 25px;
+}
