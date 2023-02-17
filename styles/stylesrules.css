@@ -12,3 +12,9 @@ display: table;
     p.inicioParrafo {
     text-indent: 25px;
 }
+h3 {
+position: absolute;
+}
+.sangria{
+    margin-left: 10px;
+}
