@@ -7,14 +7,10 @@ display: table;
    text-align: center;
     margin-left: 35%;
    position: relative;
+  } 
    
-    }
-    p.inicioParrafo {
-    text-indent: 25px;
-}
 h3 {
-position: absolute;
+position: relative;
 }
-.sangria{
-    margin-left: 10px;
-}
+ 
+    
