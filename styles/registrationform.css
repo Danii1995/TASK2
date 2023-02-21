@@ -1,0 +1,115 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+.nombre{
+    margin-top: 3%;
+    margin-left: 10%;
+}
+.apellido {
+    text-align: center;
+    margin-top: -1.5%;
+    margin-left: -5%;
+}
+.direccion {
+    margin-top: 1%;
+    margin-left: 10%;
+}
+.cuidad {
+    margin-top: 1%;
+    margin-left: 10%;
+
+}
+.codigo {
+    margin-top: -1.5%;
+    margin-left: 40%;
+}
+.nacimiento {
+    margin-top: 1%;
+    margin-left: 10%;
+}
+.genero {
+    margin-top: -1.5%;
+    margin-left: 40%;
+}
+.grado {
+    margin-top: 1%;
+    margin-left: 10%;
+}
+.numero1 {
+    margin-left: 25%;
+    margin-top: -1%;
+}
+.numero2 {
+    margin-top: -1.2%;
+    margin-left: 30%;
+}
+.numero3 {
+    margin-top: -1.2%;
+    margin-left: 35%;
+}
+.numero4 {
+    margin-left: 40%;
+    margin-top: -1.2%;
+}
+.numero5 {
+    margin-left: 45%;
+    margin-top: -1.2%;
+}
+h2 {
+    margin-top: 1%;
+}
+.escuela1 {
+    margin-left: 15%;
+    margin-top: -3.5%;
+}
+.escuela2 {
+    margin-left: 15%;
+}
+.escuela3 {
+    margin-left: 15%;
+}
+h3 {
+    margin-top: 1%;
+}
+.posicion1 {
+    margin-left: 15%;
+    margin-top: -2%;
+}
+.posicion2 {
+    margin-left: 15%;
+}
+h4 {
+    margin-top: 1%;
+}
+.uniforme1 {
+    margin-left: 15%;
+    margin-top: -5%;
+}
+.uniforme2 {
+    margin-left: 15%;
+}
+.uniforme3 {
+    margin-left: 15%;
+}
+h5 {
+    margin-top: 3%;
+    font-size: 20px;
+}
+.firma {
+    margin-top: 1.5%;
+}
+.fecha {
+    margin-top: 1%;
+}
+.enviar {
+    margin-left: 40%;
+    
+    
+}
